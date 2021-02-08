@@ -1,0 +1,163 @@
+*{
+    color: white;
+}
+
+p{
+    line-height: 1.3em;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+body{
+    background:url('fitness-1882721_1920.jpg');
+    /* width: 1280px;
+    height: 720px; */
+margin: 0%;
+padding: 0%;
+font-family: 'Baloo Bhai 2', cursive;
+}
+.left{
+    border: rgb(255, 255, 255);
+    margin-left: 12px;
+    padding:27px;
+width: 30%;
+}
+.left img{
+    border: rgb(228, 14, 14);
+    margin-left: -25px;
+    padding:24px;
+
+}
+
+.right{
+/* border:4px solid white; */
+    margin-top: -166px;
+    margin-right: -444px;
+    padding:24px;
+ width: 50%; 
+ height: 50%; 
+ float: right; 
+}
+
+
+.center{
+    border: rgb(10, 241, 222);
+    margin: auto;
+    padding:10px;
+ width: 30%;
+
+}
+
+em{
+
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.navbar{
+
+    /* border: 4px solid white; */
+   width: 155%;
+   margin-left: -153px;
+   margin-top: -110px;
+}
+
+.navbar li{
+    list-style: none;
+    text-decoration: none;
+    display: inline;
+    font-size: large;
+
+}
+
+.navbar li a{
+    list-style: none;
+    text-decoration: none;
+    padding-left: 17px;
+}
+
+.navbar li a:hover{
+    color: rgb(108 126 169);
+    text-decoration:underline;
+    
+}
+.navbar li a:visited{
+    color: rgb(108 126 169);
+    text-decoration:underline;
+    
+}
+
+
+.navbar ul{
+    overflow: auto;
+    text-decoration: none;
+}
+
+
+.form{
+    float: left;
+    width: 22%;
+    border:4px solid white;
+    border-radius: 45px;
+    margin-left: 152px;
+    margin-top: 65px;
+    padding: 12px;
+
+    font-family: 'Baloo Bhai 2', cursive;
+    
+    text-align: center;
+}
+
+.input{
+font-size: larger;
+text-align: center;
+line-height: 1.3em;
+border:2px solid cornsilk;
+border-radius: 45px;
+margin: 11px;
+color: black;
+font-family: 'Baloo Bhai 2', cursive;
+
+}
+.btn{
+
+font-size: larger;
+background-color: rgb(107, 110, 101);
+color: black;
+border: none;
+border-radius: 45px;;
+font-family: 'Baloo Bhai 2', cursive;
+cursor: pointer;
+width: 240px;
+padding: 12px;
+
+}
+
+.btn:hover{
+    background-color: rgb(42, 97, 179);
+}
+
+
+
+#quote{
+
+    float: right;
+    margin-top: 80px;
+    margin-right: 280px;
+    text-align: center;
+    font-size: xx-large;
+    font-style: italic;
+    font-family: 'Pacifico', cursive;
+    color: tomato;
+    font-weight: bold;
+    outline-color: rgb(255, 238, 0);
+}
+
+
+
+
+
